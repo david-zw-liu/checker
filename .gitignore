@@ -1,2 +1,4 @@
 /node_modules
-*.html
+records/*
+!/records/.keep
+config.json
