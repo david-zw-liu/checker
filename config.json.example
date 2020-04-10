@@ -1,0 +1,7 @@
+{
+  "chatId": 123456789,
+  "sendMessageUrl": "https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
+  "detections": [
+    { "name": "桃園地院徵人啟事", "url": "https://www.judicial.gov.tw/tw/lp-1713-1.html?dpid=037", "selector": "div.table_list" }
+  ]
+}
